@@ -2,4 +2,4 @@ flask
 twilio
 mongo
 dnspython
-gumicorn
+gunicorn
